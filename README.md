@@ -10,3 +10,5 @@ Responsive Design:Creating a seamless experience across devices.
 Recreating an existing interface is a fantastic way to dive deeper into design principles and understand user-centric design choices. 
 
 Check out the result below! I’m open to feedback and discussions on how to enhance it further.
+
+https://www.figma.com/design/sBZQRwsxdDuGj9NcepAfQ8/pinterest?node-id=0-1&p=f&t=7EXzl46FwUGgqEmE-0
